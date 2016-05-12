@@ -10,7 +10,7 @@ Collections Online er ikke én fælles online platform hvor en række arkiver og
 
 ## Baggrunden
 
-Siden maj 2014 har Nationalmuseet sammen med forskellige udviklerteams udviklet på en frontend til tilgængeliggørelse af museets billedmateriale. Resultatet er et genbrugeligt fundament som kan benyttes til tilgængeliggørelse af billeder fra et digitalt asset management system.
+Siden maj 2014 har Nationalmuseet sammen med forskellige udviklerteams (herunder Headnet, Socialsquare og museets egen IT udviklingsafdeling) udviklet på en frontend til tilgængeliggørelse af museets billedmateriale. Resultatet er et genbrugeligt fundament som kan benyttes til tilgængeliggørelse af billeder fra et digitalt asset management system.
 
 Det giver på nuværende tidspunkt mening at benytte det fælles grundlag, hvis I som museum eller arkiv:
 * Ønsker ikke at “starte fra scratch” når jeres billeder skal tilgængeliggøres.
